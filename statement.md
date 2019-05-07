@@ -3,7 +3,10 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+raio = 18/(2*3.14);
+area = 2*3.14*raio**2;
+
+print("A área do circulo e ", area, "cm2");
 ```
 
 # Advanced usage
